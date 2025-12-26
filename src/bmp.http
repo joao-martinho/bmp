@@ -1,0 +1,6 @@
+@bmp_HostAddress = http://localhost:5096
+
+GET {{bmp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
