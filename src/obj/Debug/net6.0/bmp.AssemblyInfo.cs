@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bmp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+085b01ba5262f549d41d3c2c3355f2fd871223ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ce014ce8223fcf3a6d98c7009329aaa9810c31f")]
 [assembly: System.Reflection.AssemblyProductAttribute("bmp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bmp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
