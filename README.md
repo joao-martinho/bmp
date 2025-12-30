@@ -1,8 +1,8 @@
-# BMP: Aplicação ASP.NET Core 6.0
+# BMP: uma aplicação ASP.NET Core 6.0
 
-Este projeto é uma aplicação desenvolvida em ASP.NET Core 6.0, com testes unitários usando xUnit e Moq.
+Este repositório contém o código de uma aplicação desenvolvida em ASP.NET Core 6.0, com testes unitários usando xUnit e Moq.
 
-Este documento explica, passo a passo, como executar a aplicação e rodar os testes.
+Este arquivo explica, passo a passo, como executá-la e rodar os testes.
 
 ---
 
